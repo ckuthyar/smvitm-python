@@ -5,7 +5,7 @@ import smtplib
 
 def sendMail(email):
         email_from = "adithya.acharya@funwithprogramming.com"
-        email_password="SangamOne$1"
+        email_password=""
         email_to=email
 
         subject="type_Trivia: Finish Creating your account!"
