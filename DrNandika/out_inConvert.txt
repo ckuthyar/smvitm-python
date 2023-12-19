@@ -1,0 +1,42 @@
+1 km=0.62 miles
+1 miles=1.6 km
+
+1 pounds=0.45 kilogram
+1 kilogram=2.2 pounds
+
+1 litres=0.22 gallon
+1 gallon=4.5 litres
+
+1 km=1000.0 mtr
+1 mtr=0.0 km
+
+1 mtr=100.0 cm
+1 cm=0.01 mtr
+
+1 cm=10.0 mm
+1 mm=0.1 cm
+
+1 nm=0.0 mtr
+1 mtr=1000000000.0 nm
+
+1 pm=0.0 mtr
+1 mtr=1000000000000.0 pm
+
+1 Angstrom=0.0 mtr
+1 mtr=10000000000.0 Angstrom
+
+1 inch=2.54 cm
+1 cm=0.39 inch
+
+1 mile=1.6 km
+1 km=0.62 mile
+
+1 feet=12.0 inch
+1 inch=0.08 feet
+
+1 feet=30.5 cm
+1 cm=0.03 feet
+
+1 yard=0.91 mtr
+1 mtr=1.09 yard
+

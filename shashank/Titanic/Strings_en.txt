@@ -1,0 +1,11 @@
+total number of people in titanic
+number of people survived
+number of people deceased
+number of males
+number of females
+number of others
+number of children
+number of children survived
+number of children deceased
+
+

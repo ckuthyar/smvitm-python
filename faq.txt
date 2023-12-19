@@ -1,0 +1,2 @@
+What is the price ofg6-nanode-1 in US dollars
+{'hourly': 0.0075, 'monthly': 5.0}
