@@ -8,8 +8,11 @@ def collage1(college1,dept1):
     imgpath1="Images/"+college+"_"+dept+"/"
     imgpath2="Images/"+college+"_"+dept+"R"+"/"
 
+    
+
     image1=cv2.imread(imgpath1+"1.jpg")
     image1=cv2.resize(image1,(dim1,dim2))
+    image1=cv2.putText(image1,"Photo")
     image2=cv2.imread(imgpath1+"2.jpg")
     image2=cv2.resize(image2,(dim1,dim2))
     image3=cv2.imread(imgpath1+"3.jpg")
@@ -84,7 +87,7 @@ def collage1(college1,dept1):
     cv2.imwrite(imgpath2+"Row123456.jpg",vstack1)
     print("Collage of 24 photos is ready",college,dept)
     cv2.imshow(dept,vstack1)
-collage1("SMVITM","CS")
+#collage1("SMVITM","CS")
 collage1("SMVITM","EC")
 
 
